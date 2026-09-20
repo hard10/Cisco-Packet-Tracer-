@@ -48,4 +48,4 @@ The lab demonstrates communication between PC3 and PC4 through a network switch 
 
 The following image shows the network topology created using Cisco Packet Tracer.
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](topology.png)
