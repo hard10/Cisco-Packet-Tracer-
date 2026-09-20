@@ -50,4 +50,7 @@ The following image shows the network topology created using Cisco Packet Tracer
 
 ![Network Topology](topology.png)
 ![Ping Test](ping/pingtest.png)
+## IP Configuration
+
+![IP Configuration](ips-configuration.png)
 
